@@ -1,3 +1,5 @@
+echo "My name is Alex" 
+echo "I am from cyprus" 
 # Linux ex1
 Due date: 04/07/22 23:59
 
